@@ -1,6 +1,6 @@
 # Secure-File-Storage-In-Cloud-Using-Hybrid-Cryptography
 
-Storing the file on the secure platform</br>
+Storing the file on the secure platform
 
 # STEPS:
 
@@ -38,5 +38,5 @@ Step 2: Run the application</br>
 Step 3: Visit the localhost from your browser</br>
 `eg. http://localhost:port`
 
-Have Fun!👨‍💻
+Have Fun!👨‍💻</br>
 Enjoy🙂💖
